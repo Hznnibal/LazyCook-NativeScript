@@ -1,0 +1,11 @@
+{
+  "selectIngredients": "Выберите ингредиенты",
+  "availableRecipes": "Доступные рецепты",
+  "noRecipesFound": "Выберите все необходимые ингредиенты, чтобы увидеть рецепт здесь",
+  "ingredients": "Ингредиенты",
+  "instructions": "Инструкции",
+  "prepTime": "Время подготовки",
+  "cookTime": "Время приготовления",
+  "servings": "Порции",
+  "searchRecipes": "Поиск рецептов..."
+}

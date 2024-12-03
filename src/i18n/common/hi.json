@@ -1,0 +1,11 @@
+{
+  "selectIngredients": "सामग्री चुनें",
+  "availableRecipes": "उपलब्ध व्यंजन",
+  "noRecipesFound": "यहां व्यंजन देखने के लिए सभी आवश्यक सामग्री का चयन करें",
+  "ingredients": "सामग्री",
+  "instructions": "निर्देश",
+  "prepTime": "तैयारी का समय",
+  "cookTime": "पकाने का समय",
+  "servings": "परोसने की मात्रा",
+  "searchRecipes": "व्यंजन खोजें..."
+}

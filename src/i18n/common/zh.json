@@ -1,0 +1,11 @@
+{
+  "selectIngredients": "选择食材",
+  "availableRecipes": "可用食谱",
+  "noRecipesFound": "选择所需的所有食材以在此处查看食谱",
+  "ingredients": "食材",
+  "instructions": "烹饪步骤",
+  "prepTime": "准备时间",
+  "cookTime": "烹饪时间",
+  "servings": "份量",
+  "searchRecipes": "搜索食谱..."
+}

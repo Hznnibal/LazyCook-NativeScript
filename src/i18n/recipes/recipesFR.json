@@ -1,0 +1,526 @@
+{
+    "recipes":  [
+    {
+        "name": "Salade de tomates et de mozzarella",
+        "ingredients": [
+            "Tomates",
+            "Mozzarella",
+            "Basilic",
+            "Huile d'olive",
+            "Vinaigre balsamique"
+        ],
+        "instructions": "Coupez les tomates et la mozzarella en tranches. Disposez-les sur une assiette en alternance. Saupoudrez de basilic frais. Assaisonnez avec de l'huile d'olive et du vinaigre balsamique."
+    },
+    {
+        "name": "Spaghetti à la sauce tomate",
+        "ingredients": [
+            "Spaghetti",
+            "Tomates",
+            "Ail",
+            "Basilic",
+            "Parmesan"
+        ],
+        "instructions": "Faites cuire les spaghetti selon les instructions sur l'emballage. Pendant ce temps, faites revenir l'ail dans de l'huile d'olive. Ajoutez les tomates concassées et laissez mijoter jusqu'à ce qu'elles soient tendres. Ajoutez le basilic haché et assaisonnez selon votre goût. Servez la sauce sur les spaghetti cuits avec du parmesan râpé."
+    },
+    {
+        "name": "Pizza Margherita",
+        "ingredients": [
+            "Pâte à pizza",
+            "Tomates",
+            "Mozzarella",
+            "Basilic",
+            "Huile d'olive"
+        ],
+        "instructions": "Préchauffez le four à 220°C. Étalez la pâte à pizza sur une plaque à pâtisserie. Disposez des tranches de tomates et de mozzarella sur la pâte. Arrosez d'huile d'olive et ajoutez des feuilles de basilic. Cuire au four pendant 15-20 minutes ou jusqu'à ce que la croûte soit dorée."
+    },
+    {
+        "name": "Poulet aux tomates confites",
+        "ingredients": [
+            "Poulet",
+            "Tomates",
+            "Ail",
+            "Thym",
+            "Huile d'olive"
+        ],
+        "instructions": "Préchauffez le four à 200°C. Disposez les morceaux de poulet dans un plat allant au four. Ajoutez les tomates, l'ail émincé et le thym. Arrosez d'huile d'olive et assaisonnez selon votre goût. Cuire au four pendant 25-30 minutes ou jusqu'à ce que le poulet soit cuit."
+    },
+    {
+        "name": "Bruschetta aux tomates",
+        "ingredients": [
+            "Pain baguette",
+            "Tomates",
+            "Ail",
+            "Basilic",
+            "Huile d'olive"
+        ],
+        "instructions": "Tranchez le pain baguette et faites-le griller légèrement. Frottez les tranches avec de l'ail pour leur donner de la saveur. Disposez les tranches de tomates sur le pain grillé. Arrosez d'huile d'olive et ajoutez du basilic haché. Servez immédiatement."
+    },
+    {
+        "name": "Tarte aux tomates et à la moutarde",
+        "ingredients": [
+            "Pâte brisée",
+            "Tomates",
+            "Moutarde",
+            "Fromage de chèvre",
+            "Thym"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Étalez la pâte brisée dans un moule à tarte. Étalez une fine couche de moutarde sur le fond de tarte. Disposez des tranches de tomates sur la moutarde. Émiettez du fromage de chèvre sur les tomates. Saupoudrez de thym frais. Cuire au four pendant 25-30 minutes ou jusqu'à ce que la croûte soit dorée."
+    },
+    {
+        "name": "Gazpacho",
+        "ingredients": [
+            "Tomates",
+            "Poivron rouge",
+            "Concombre",
+            "Oignon",
+            "Ail"
+        ],
+        "instructions": "Mélangez tous les légumes dans un blender jusqu'à obtenir une consistance lisse. Assaisonnez avec du sel, du poivre, du vinaigre de vin rouge et de l'huile d'olive. Réfrigérez pendant au moins une heure avant de servir."
+    },
+    {
+        "name": "Salade grecque",
+        "ingredients": [
+            "Tomates",
+            "Concombre",
+            "Oignon rouge",
+            "Olives",
+            "Feta"
+        ],
+        "instructions": "Coupez les tomates et le concombre en cubes. Tranchez l'oignon rouge. Ajoutez des olives et de la feta émiettée. Assaisonnez avec du sel, du poivre, de l'origan séché et de l'huile d'olive. Mélangez bien et servez."
+    },
+    {
+        "name": "Ratatouille",
+        "ingredients": [
+            "Tomates",
+            "Aubergine",
+            "Courgette",
+            "Poivron",
+            "Oignon"
+        ],
+        "instructions": "Coupez tous les légumes en tranches ou en cubes. Faites revenir les oignons dans de l'huile d'olive jusqu'à ce qu'ils soient tendres. Ajoutez les autres légumes et faites-les sauter jusqu'à ce qu'ils soient tendres. Assaisonnez avec du sel, du poivre, de l'ail et du thym. Servez chaud ou froid."
+    },
+    {
+        "name": "Pâtes à la Puttanesca",
+        "ingredients": [
+            "Pâtes",
+            "Tomates",
+            "Anchois",
+            "Olives",
+            "Câpres"
+        ],
+        "instructions": "Faites cuire les pâtes selon les instructions sur l'emballage. Pendant ce temps, faites revenir les anchois, les olives et les câpres dans de l'huile d'olive. Ajoutez les tomates concassées et laissez mijoter jusqu'à ce qu'elles soient tendres. Assaisonnez avec du sel, du poivre, de l'ail et du piment rouge. Servez la sauce sur les pâtes cuites."
+    },
+    {
+        "name": "Quiche aux tomates séchées",
+        "ingredients": [
+            "Pâte feuilletée",
+            "Tomates séchées",
+            "Fromage de chèvre",
+            "Oeufs",
+            "Crème"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Étalez la pâte feuilletée dans un moule à tarte. Disposez des tomates séchées sur le fond de tarte. Émiettez du fromage de chèvre sur les tomates. Battez les oeufs avec la crème, salez et poivrez. Versez le mélange sur la tarte. Cuire au four pendant 25-30 minutes ou jusqu'à ce que la garniture soit prise."
+    },
+    {
+        "name": "Tomates farcies",
+        "ingredients": [
+            "Tomates",
+            "Viande hachée",
+            "Oignon",
+            "Ail",
+            "Persil"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Coupez le dessus des tomates et évidez l'intérieur. Dans un bol, mélangez la viande hachée, l'oignon, l'ail et le persil hachés. Remplissez les tomates avec ce mélange. Disposez les tomates farcies dans un plat allant au four. Cuire au four pendant 30-35 minutes ou jusqu'à ce que la viande soit cuite."
+    },
+    {
+        "name": "Tomates farcies au riz",
+        "ingredients": [
+            "Tomates",
+            "Riz",
+            "Oignon",
+            "Ail",
+            "Persil"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Coupez le dessus des tomates et évidez l'intérieur. Faites cuire le riz selon les instructions sur l'emballage. Dans une poêle, faites revenir l'oignon et l'ail hachés jusqu'à ce qu'ils soient tendres. Ajoutez le riz cuit et le persil haché. Remplissez les tomates avec ce mélange. Disposez les tomates farcies dans un plat allant au four. Cuire au four pendant 25-30 minutes ou jusqu'à ce que les tomates soient tendres."
+    },
+    {
+        "name": "Bruschetta à la caprese",
+        "ingredients": [
+            "Pain ciabatta",
+            "Tomates",
+            "Mozzarella",
+            "Basilic",
+            "Huile d'olive"
+        ],
+        "instructions": "Tranchez le pain ciabatta et faites-le griller légèrement. Disposez des tranches de tomates et de mozzarella sur le pain grillé. Arrosez d'huile d'olive et ajoutez du basilic haché. Servez immédiatement."
+    },
+    {
+        "name": "Soupe de tomates rôties",
+        "ingredients": [
+            "Tomates",
+            "Ail",
+            "Oignon",
+            "Bouillon de légumes",
+            "Thym"
+        ],
+        "instructions": "Préchauffez le four à 200°C. Coupez les tomates en deux et placez-les sur une plaque à pâtisserie. Ajoutez l'ail et l'oignon émincés. Arrosez d'huile d'olive et saupoudrez de thym. Faites rôtir au four pendant 30-40 minutes. Transférez les tomates rôties dans une casserole avec le bouillon de légumes. Laissez mijoter pendant 10 minutes. Utilisez un mixeur plongeant pour réduire en purée. Assaisonnez selon votre goût."
+    },
+    {
+        "name": "Salade de pâtes aux tomates séchées",
+        "ingredients": [
+            "Pâtes",
+            "Tomates séchées",
+            "Épinards",
+            "Fromage feta",
+            "Basilic"
+        ],
+        "instructions": "Faites cuire les pâtes selon les instructions sur l'emballage. Pendant ce temps, hachez les tomates séchées, les épinards et le basilic. Mélangez les pâtes cuites avec les tomates séchées, les épinards et le basilic. Ajoutez du fromage feta émietté et assaisonnez selon votre goût. Servez froid."
+    },
+    {
+        "name": "Tian de légumes",
+        "ingredients": [
+            "Tomates",
+            "Courgette",
+            "Aubergine",
+            "Oignon",
+            "Thym"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Coupez tous les légumes en tranches fines. Disposez les tranches en couches dans un plat à gratin, en alternant entre les différents légumes. Saupoudrez de thym frais. Arrosez d'huile d'olive. Cuire au four pendant 40-50 minutes ou jusqu'à ce que les légumes soient tendres et dorés."
+    },
+    {
+        "name": "Salade de couscous aux tomates",
+        "ingredients": [
+            "Couscous",
+            "Tomates",
+            "Concombre",
+            "Menthe",
+            "Persil"
+        ],
+        "instructions": "Préparez le couscous selon les instructions sur l'emballage. Laissez refroidir. Coupez les tomates et le concombre en dés. Hachez la menthe et le persil. Mélangez tous les ingrédients dans un saladier. Assaisonnez avec du sel, du poivre, du jus de citron et de l'huile d'olive. Servez frais."
+    },
+    {
+        "name": "Bruschetta à l'avocat et aux tomates",
+        "ingredients": [
+            "Pain de campagne",
+            "Tomates",
+            "Avocat",
+            "Ail",
+            "Coriandre"
+        ],
+        "instructions": "Tranchez le pain de campagne et faites-le griller légèrement. Frottez les tranches avec de l'ail pour leur donner de la saveur. Disposez les tranches de tomates et d'avocat sur le pain grillé. Saupoudrez de coriandre hachée. Servez immédiatement."
+    },
+    {
+        "name": "Sauce marinara",
+        "ingredients": [
+            "Tomates",
+            "Ail",
+            "Oignon",
+            "Basilic",
+            "Origan"
+        ],
+        "instructions": "Dans une casserole, faites revenir l'oignon et l'ail dans de l'huile d'olive jusqu'à ce qu'ils soient tendres. Ajoutez les tomates concassées et laissez mijoter pendant 20-30 minutes. Ajoutez le basilic et l'origan hachés. Assaisonnez selon votre goût. Utilisez cette sauce sur des pâtes, des pizzas ou d'autres plats."
+    },
+    {
+        "name": "Pommes de terre rissolées",
+        "ingredients": [
+            "Pommes de terre",
+            "Huile d'olive",
+            "Sel",
+            "Poivre"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Faites chauffer de l'huile d'olive dans une poêle à feu moyen. Ajoutez les dés de pommes de terre et faites-les frire jusqu'à ce qu'ils soient dorés et croustillants. Assaisonnez avec du sel et du poivre."
+    },
+    {
+        "name": "Gratin dauphinois",
+        "ingredients": [
+            "Pommes de terre",
+            "Crème",
+            "Lait",
+            "Ail",
+            "Fromage râpé"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Épluchez et coupez les pommes de terre en tranches fines. Dans une casserole, faites chauffer la crème, le lait et l'ail émincé jusqu'à ce que le mélange soit chaud. Disposez les tranches de pommes de terre dans un plat allant au four. Versez le mélange de crème sur les pommes de terre. Saupoudrez de fromage râpé. Cuire au four pendant 45-60 minutes ou jusqu'à ce que le dessus soit doré et les pommes de terre tendres."
+    },
+    {
+        "name": "Frites maison",
+        "ingredients": [
+            "Pommes de terre",
+            "Huile végétale",
+            "Sel"
+        ],
+        "instructions": "Épluchez les pommes de terre et coupez-les en bâtonnets. Faites chauffer de l'huile végétale dans une friteuse ou une grande casserole à feu moyen-élevé. Faites frire les bâtonnets de pommes de terre jusqu'à ce qu'ils soient dorés et croustillants. Égouttez-les sur du papier absorbant et assaisonnez avec du sel."
+    },
+    {
+        "name": "Purée de pommes de terre",
+        "ingredients": [
+            "Pommes de terre",
+            "Beurre",
+            "Lait",
+            "Sel",
+            "Poivre"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en morceaux. Faites-les cuire dans de l'eau bouillante salée jusqu'à ce qu'elles soient tendres. Égouttez-les et écrasez-les à la fourchette ou à l'aide d'un presse-purée. Ajoutez du beurre et du lait chauds en petites quantités jusqu'à obtenir la consistance désirée. Assaisonnez avec du sel et du poivre."
+    },
+    {
+        "name": "Tortilla espagnole",
+        "ingredients": [
+            "Pommes de terre",
+            "Oeufs",
+            "Oignon",
+            "Huile d'olive",
+            "Sel"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en tranches fines. Faites chauffer de l'huile d'olive dans une poêle à feu moyen. Ajoutez les pommes de terre et l'oignon haché. Faites cuire jusqu'à ce que les pommes de terre soient tendres. Battez les œufs dans un bol et versez-les sur les pommes de terre. Assaisonnez avec du sel. Faites cuire jusqu'à ce que les œufs soient pris et le fond doré. Retournez la tortilla et faites cuire de l'autre côté jusqu'à ce qu'elle soit dorée."
+    },
+    {
+        "name": "Potage aux pommes de terre",
+        "ingredients": [
+            "Pommes de terre",
+            "Bouillon de légumes",
+            "Oignon",
+            "Ail",
+            "Crème"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Faites chauffer de l'huile d'olive dans une casserole à feu moyen. Ajoutez l'oignon haché et l'ail émincé. Faites revenir jusqu'à ce qu'ils soient tendres. Ajoutez les dés de pommes de terre et le bouillon de légumes. Portez à ébullition, puis réduisez le feu et laissez mijoter jusqu'à ce que les pommes de terre soient tendres. Utilisez un mixeur plongeant pour réduire en purée. Ajoutez de la crème et assaisonnez avec du sel et du poivre."
+    },
+    {
+        "name": "Pommes de terre au four",
+        "ingredients": [
+            "Pommes de terre",
+            "Beurre",
+            "Crème fraîche",
+            "Fromage râpé",
+            "Bacon"
+        ],
+        "instructions": "Préchauffez le four à 200°C. Lavez les pommes de terre et piquez-les avec une fourchette. Faites cuire au four pendant 45-60 minutes ou jusqu'à ce qu'elles soient tendres. Incisez-les sur le dessus et pressez les côtés pour les ouvrir. Garnissez de beurre, de crème fraîche, de fromage râpé et de bacon cuit."
+    },
+    {
+        "name": "Croquettes de pommes de terre",
+        "ingredients": [
+            "Pommes de terre",
+            "Oeufs",
+            "Chapelure",
+            "Persil",
+            "Sel"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Faites-les cuire dans de l'eau bouillante salée jusqu'à ce qu'elles soient tendres. Égouttez-les et écrasez-les à la fourchette. Ajoutez les œufs battus, le persil haché et le sel. Formez des croquettes à partir du mélange et roulez-les dans la chapelure. Faites-les frire dans de l'huile chaude jusqu'à ce qu'elles soient dorées et croustillantes."
+    },
+    {
+        "name": "Pommes de terre sautées à l'ail",
+        "ingredients": [
+            "Pommes de terre",
+            "Ail",
+            "Persil",
+            "Huile d'olive",
+            "Sel"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Faites chauffer de l'huile d'olive dans une poêle à feu moyen. Ajoutez les dés de pommes de terre et faites-les cuire jusqu'à ce qu'ils soient dorés et croustillants. Ajoutez l'ail émincé et le persil haché. Assaisonnez avec du sel et faites sauter pendant quelques minutes de plus."
+    },
+    {
+        "name": "Pommes de terre farcies au fromage",
+        "ingredients": [
+            "Pommes de terre",
+            "Fromage frais",
+            "Ciboulette",
+            "Bacon",
+            "Crème fraîche"
+        ],
+        "instructions": "Préchauffez le four à 200°C. Lavez les pommes de terre et piquez-les avec une fourchette. Faites cuire au four pendant 45-60 minutes ou jusqu'à ce qu'elles soient tendres. Incisez-les sur le dessus et pressez les côtés pour les ouvrir. Mélangez le fromage frais, la ciboulette hachée, le bacon cuit et la crème fraîche. Garnissez les pommes de terre de ce mélange."
+    },
+    {
+        "name": "Hachis parmentier",
+        "ingredients": [
+            "Pommes de terre",
+            "Viande hachée",
+            "Oignon",
+            "Ail",
+            "Fromage râpé"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Épluchez et coupez les pommes de terre en morceaux. Faites-les cuire dans de l'eau bouillante salée jusqu'à ce qu'elles soient tendres. Égouttez-les et écrasez-les à la fourchette. Dans une poêle, faites revenir l'oignon haché et l'ail émincé. Ajoutez la viande hachée et faites cuire jusqu'à ce qu'elle soit dorée. Disposez la viande dans un plat allant au four. Couvrez avec la purée de pommes de terre et saupoudrez de fromage râpé. Cuire au four pendant 25-30 minutes ou jusqu'à ce que le dessus soit doré."
+    },
+    {
+        "name": "Soupe de pommes de terre et poireaux",
+        "ingredients": [
+            "Pommes de terre",
+            "Poireaux",
+            "Bouillon de légumes",
+            "Crème fraîche",
+            "Persil"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Nettoyez et coupez les poireaux en rondelles. Faites chauffer de l'huile d'olive dans une casserole à feu moyen. Ajoutez les poireaux et faites-les cuire jusqu'à ce qu'ils soient tendres. Ajoutez les dés de pommes de terre et le bouillon de légumes. Portez à ébullition, puis réduisez le feu et laissez mijoter jusqu'à ce que les pommes de terre soient tendres. Utilisez un mixeur plongeant pour réduire en purée. Ajoutez de la crème fraîche et assaisonnez avec du sel et du poivre. Garnissez de persil haché avant de servir."
+    },
+    {
+        "name": "Rösti suisse",
+        "ingredients": [
+            "Pommes de terre",
+            "Oignon",
+            "Beurre",
+            "Sel",
+            "Poivre"
+        ],
+        "instructions": "Râpez les pommes de terre et l'oignon. Pressez pour enlever l'excès d'humidité. Faites chauffer du beurre dans une poêle à feu moyen. Ajoutez le mélange de pommes de terre et d'oignon dans la poêle. Étalez uniformément et appuyez avec une spatule. Faites cuire jusqu'à ce que le fond soit doré et croustillant. Retournez et faites cuire de l'autre côté jusqu'à ce qu'il soit doré et croustillant. Assaisonnez avec du sel et du poivre avant de servir."
+    },
+    {
+        "name": "Pommes de terre à la provençale",
+        "ingredients": [
+            "Pommes de terre",
+            "Tomates",
+            "Oignon",
+            "Ail",
+            "Herbes de Provence"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Faites chauffer de l'huile d'olive dans une poêle à feu moyen. Ajoutez les dés de pommes de terre et faites-les cuire jusqu'à ce qu'ils soient dorés et croustillants. Ajoutez les tomates coupées en dés, l'oignon haché et l'ail émincé. Saupoudrez d'herbes de Provence. Faites cuire jusqu'à ce que les légumes soient tendres. Servez chaud."
+    },
+    {
+        "name": "Pommes de terre à la suédoise",
+        "ingredients": [
+            "Pommes de terre",
+            "Beurre",
+            "Bouillon de poulet",
+            "Ail",
+            "Thym"
+        ],
+        "instructions": "Préchauffez le four à 200°C. Épluchez les pommes de terre mais ne les coupez pas complètement. Placez-les sur une planche à découper et coupez-les en tranches fines, en veillant à ne pas couper complètement à la base. Faites fondre le beurre dans une casserole à feu moyen. Ajoutez l'ail émincé et le thym. Disposez les pommes de terre dans un plat allant au four. Versez le mélange de beurre sur les pommes de terre et le bouillon de poulet dans le plat. Cuire au four pendant 45-60 minutes ou jusqu'à ce que les pommes de terre soient dorées et tendres."
+    },
+    {
+        "name": "Gratin de pommes de terre et de saumon",
+        "ingredients": [
+            "Pommes de terre",
+            "Saumon",
+            "Crème",
+            "Lait",
+            "Fromage râpé"
+        ],
+        "instructions": "Préchauffez le four à 180°C. Épluchez et coupez les pommes de terre en tranches fines. Faites cuire le saumon au four ou à la vapeur jusqu'à ce qu'il soit cuit. Disposez une couche de pommes de terre dans un plat allant au four. Ajoutez une couche de saumon émietté. Répétez les couches jusqu'à épuisement des ingrédients. Dans une casserole, faites chauffer la crème et le lait. Versez le mélange sur les pommes de terre et le saumon. Saupoudrez de fromage râpé. Cuire au four pendant 45-60 minutes ou jusqu'à ce que le dessus soit doré et les pommes de terre tendres."
+    },
+    {
+        "name": "Pommes de terre farcies au fromage",
+        "ingredients": [
+            "Pommes de terre",
+            "Fromage cheddar",
+            "Bacon",
+            "Crème fraîche",
+            "Ciboulette"
+        ],
+        "instructions": "Préchauffez le four à 200°C. Lavez les pommes de terre et piquez-les avec une fourchette. Faites cuire au four pendant 45-60 minutes ou jusqu'à ce qu'elles soient tendres. Incisez-les sur le dessus et pressez les côtés pour les ouvrir. Mélangez le fromage cheddar râpé, le bacon cuit, la crème fraîche et la ciboulette hachée. Garnissez les pommes de terre de ce mélange."
+    },
+    {
+        "name": "Pommes de terre aux herbes",
+        "ingredients": [
+            "Pommes de terre",
+            "Beurre",
+            "Ail",
+            "Persil",
+            "Thym"
+        ],
+        "instructions": "Épluchez et coupez les pommes de terre en dés. Faites chauffer du beurre dans une poêle à feu moyen. Ajoutez les dés de pommes de terre et faites-les cuire jusqu'à ce qu'ils soient dorés et croustillants. Ajoutez l'ail émincé, le persil haché et le thym. Assaisonnez avec du sel et du poivre. Faites sauter jusqu'à ce que les herbes soient parfumées."
+    },
+    {
+        "name": "Pâtes au beurre",
+        "ingredients": [
+            "Pâtes",
+            "Beurre",
+            "Sel"
+        ],
+        "instructions": "Faire cuire les pâtes selon les instructions sur l'emballage. Égoutter et mélanger avec du beurre. Assaisonner avec du sel selon le goût."
+    },
+    {
+        "name": "Omelette aux légumes",
+        "ingredients": [
+            "Œufs",
+            "Légumes au choix (tomates, poivrons, oignons, champignons, épinards)",
+            "Sel",
+            "Poivre",
+            "Huile"
+        ],
+        "instructions": "Battre les œufs dans un bol. Ajouter les légumes coupés en dés. Assaisonner avec du sel et du poivre. Faire chauffer de l'huile dans une poêle et verser le mélange. Cuire jusqu'à ce que l'omelette soit prise."
+    },
+    {
+        "name": "Sandwich au fromage grillé",
+        "ingredients": [
+            "Pain",
+            "Fromage",
+            "Beurre"
+        ],
+        "instructions": "Étaler du beurre sur une face du pain. Placer le fromage entre les deux tranches de pain (face beurrée vers l'extérieur). Faire griller dans une poêle jusqu'à ce que le fromage soit fondu et le pain doré."
+    },
+    {
+        "name": "Salade César",
+        "ingredients": [
+            "Laitue",
+            "Poulet cuit",
+            "Croûtons",
+            "Parmesan",
+            "Sauce César"
+        ],
+        "instructions": "Couper la laitue et le poulet en morceaux. Ajouter les croûtons et le parmesan. Assaisonner avec la sauce César et mélanger."
+    },
+    {
+        "name": "Pommes de terre rôties",
+        "ingredients": [
+            "Pommes de terre",
+            "Huile d'olive",
+            "Sel",
+            "Poivre",
+            "Herbes de Provence"
+        ],
+        "instructions": "Couper les pommes de terre en quartiers. Les mélanger avec de l'huile d'olive, du sel, du poivre et des herbes de Provence. Étaler sur une plaque de cuisson et faire rôtir au four jusqu'à ce qu'elles soient dorées."
+    },
+    {
+        "name": "Riz aux légumes",
+        "ingredients": [
+            "Riz",
+            "Légumes au choix (poivrons, carottes, petits pois)",
+            "Huile",
+            "Sel",
+            "Poivre"
+        ],
+        "instructions": "Faire cuire le riz selon les instructions sur l'emballage. Pendant ce temps, faire sauter les légumes dans de l'huile jusqu'à ce qu'ils soient tendres. Mélanger les légumes avec le riz cuit. Assaisonner avec du sel et du poivre."
+    },
+    {
+        "name": "Pizza maison",
+        "ingredients": [
+            "Pâte à pizza prête à l'emploi",
+            "Sauce tomate",
+            "Fromage",
+            "Garnitures au choix (jambon, champignons, poivrons, olives)"
+        ],
+        "instructions": "Étaler la pâte à pizza sur une plaque de cuisson. Étaler la sauce tomate, ajouter le fromage et les garnitures de votre choix. Cuire au four selon les instructions sur l'emballage de la pâte."
+    },
+    {
+        "name": "Soupe de légumes",
+        "ingredients": [
+            "Légumes au choix (carottes, pommes de terre, poireaux, céleri)",
+            "Bouillon de légumes",
+            "Sel",
+            "Poivre",
+            "Herbes fraîches (persil, thym)"
+        ],
+        "instructions": "Couper les légumes en morceaux. Les faire cuire dans le bouillon de légumes jusqu'à ce qu'ils soient tendres. Assaisonner avec du sel, du poivre et des herbes fraîches."
+    },
+    {
+        "name": "Poulet rôti",
+        "ingredients": [
+            "Poulet entier",
+            "Sel",
+            "Poivre",
+            "Huile d'olive",
+            "Herbes de Provence"
+        ],
+        "instructions": "Préchauffer le four. Assaisonner le poulet avec du sel, du poivre et des herbes de Provence. Badigeonner d'huile d'olive. Faire rôtir au four jusqu'à ce que le poulet soit doré et bien cuit."
+    },
+    {
+        "name": "Tacos",
+        "ingredients": [
+            "Tortillas",
+            "Viande hachée",
+            "Haricots en conserve",
+            "Fromage râpé",
+            "Laitue",
+            "Tomates",
+            "Sauce salsa"
+        ],
+        "instructions": "Faire cuire la viande hachée dans une poêle. Réchauffer les tortillas. Remplir chaque tortilla avec de la viande, des haricots, du fromage, de la laitue, des tomates et de la sauce salsa."
+    }
+]
+}

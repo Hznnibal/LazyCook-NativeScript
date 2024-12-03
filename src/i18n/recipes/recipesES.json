@@ -1,0 +1,516 @@
+{
+    "recipes":  [
+    {
+        "name": "Ensalada de tomate y mozzarella",
+        "ingredients": [
+            "Tomates",
+            "Mozzarella",
+            "Albahaca",
+            "Aceite de oliva",
+            "Vinagre balsámico"
+        ],
+        "instructions": "Corte los tomates y la mozzarella en rodajas. Colóquelos en un plato alternando capas. Espolvoree con albahaca fresca. Sazone con aceite de oliva y vinagre balsámico."
+    },
+    {
+        "name": "Espaguetis con salsa de tomate",
+        "ingredients": [
+            "Espaguetis",
+            "Tomates",
+            "Ajo",
+            "Albahaca",
+            "Queso parmesano"
+        ],
+        "instructions": "Cocine los espaguetis según las instrucciones del paquete. Mientras tanto, saltee el ajo en aceite de oliva. Agregue los tomates triturados y cocine a fuego lento hasta que estén tiernos. Agregue la albahaca picada y sazone al gusto. Sirva la salsa sobre los espaguetis cocidos con queso parmesano rallado."
+    },
+    {
+        "name": "Pizza Margherita",
+        "ingredients": [
+            "Masa de pizza",
+            "Tomates",
+            "Mozzarella",
+            "Albahaca",
+            "Aceite de oliva"
+        ],
+        "instructions": "Precaliente el horno a 220°C. Extienda la masa de pizza en una bandeja para hornear. Coloque rodajas de tomate y mozzarella sobre la masa. Rocíe con aceite de oliva y agregue hojas de albahaca. Hornee durante 15-20 minutos o hasta que la masa esté dorada."
+    },
+    {
+        "name": "Pollo con tomates secos",
+        "ingredients": [
+            "Pollo",
+            "Tomates",
+            "Ajo",
+            "Tomillo",
+            "Aceite de oliva"
+        ],
+        "instructions": "Precaliente el horno a 200°C. Coloque los trozos de pollo en una fuente para horno. Agregue los tomates, el ajo picado y el tomillo. Rocíe con aceite de oliva y sazone al gusto. Hornee durante 25-30 minutos o hasta que el pollo esté cocido."
+    },
+    {
+        "name": "Bruschetta de tomate",
+        "ingredients": [
+            "Pan baguette",
+            "Tomates",
+            "Ajo",
+            "Albahaca",
+            "Aceite de oliva"
+        ],
+        "instructions": "Corte el pan baguette en rodajas y tueste ligeramente. Frote las rebanadas con ajo para darles sabor. Coloque las rodajas de tomate sobre el pan tostado. Rocíe con aceite de oliva y agregue albahaca picada. Sirva de inmediato."
+    },
+    {
+        "name": "Tarta de tomate y mostaza",
+        "ingredients": [
+            "Masa quebrada",
+            "Tomates",
+            "Mostaza",
+            "Queso de cabra",
+            "Tomillo"
+        ],
+        "instructions": "Precaliente el horno a 180°C. Extienda la masa quebrada en un molde para tarta. Extienda una capa fina de mostaza sobre el fondo de la tarta. Coloque rodajas de tomate sobre la mostaza. Desmenuce queso de cabra sobre los tomates. Espolvoree con tomillo fresco. Hornee durante 25-30 minutos o hasta que la masa esté dorada."
+    },
+    {
+        "name": "Gazpacho",
+        "ingredients": [
+            "Tomates",
+            "Pimiento rojo",
+            "Pepino",
+            "Cebolla",
+            "Ajo"
+        ],
+        "instructions": "Mezcle todos los vegetales en una licuadora hasta obtener una consistencia suave. Sazone con sal, pimienta, vinagre de vino tinto y aceite de oliva. Refrigere durante al menos una hora antes de servir."
+    },
+    {
+        "name": "Ensalada griega",
+        "ingredients": [
+            "Tomates",
+            "Pepino",
+            "Cebolla roja",
+            "Aceitunas",
+            "Queso feta"
+        ],
+        "instructions": "Corte los tomates y el pepino en cubos. Corte la cebolla roja en rodajas. Agregue aceitunas y queso feta desmenuzado. Sazone con sal, pimienta, orégano seco y aceite de oliva. Mezcle bien y sirva."
+    },
+    {
+        "name": "Ratatouille",
+        "ingredients": [
+            "Tomates",
+            "Berenjena",
+            "Calabacín",
+            "Pimiento",
+            "Cebolla"
+        ],
+        "instructions": "Corte todas las verduras en rodajas o cubos. Saltee las cebollas en aceite de oliva hasta que estén tiernas. Agregue las demás verduras y saltee hasta que estén tiernas. Sazone con sal, pimienta, ajo y tomillo. Sirva caliente o frío."
+    },
+    {
+        "name": "Pasta Puttanesca",
+        "ingredients": [
+            "Pasta",
+            "Tomates",
+            "Anchoas",
+            "Aceitunas",
+            "Alcaparras"
+        ],
+        "instructions": "Cocine la pasta según las instrucciones del paquete. Mientras tanto, saltee las anchoas, las aceitunas y las alcaparras en aceite de oliva. Agregue los tomates triturados y cocine a fuego lento hasta que estén tiernos. Sazone con sal, pimienta, ajo y pimiento rojo. Sirva la salsa sobre la pasta cocida."
+    },
+    {
+        "name": "Quiche de tomates secos",
+        "ingredients": [
+            "Masa hojaldrada",
+            "Tomates secos",
+            "Queso de cabra",
+            "Huevos",
+            "Crema"
+        ],
+        "instructions": "Precaliente el horno a 180°C. Extienda la masa hojaldrada en un molde para tarta. Coloque los tomates secos en el fondo de la tarta. Desmenuce queso de cabra sobre los tomates. Bata los huevos con la crema, sazone con sal y pimienta. Vierta la mezcla sobre la tarta. Hornee durante 25-30 minutos o hasta que el relleno esté cuajado."
+    },
+    {
+        "name": "Tomates rellenos de carne picada",
+        "ingredients": [
+            "Tomates",
+            "Carne picada",
+            "Cebolla",
+            "Ajo",
+            "Perejil"
+        ],
+        "instructions": "Precaliente el horno a 180°C. Corte la parte superior de los tomates y vacíe el interior. En un tazón, mezcle la carne picada, la cebolla, el ajo y el perejil picados. Rellene los tomates con esta mezcla. Coloque los tomates rellenos en una fuente para horno. Hornee durante 30-35 minutos o hasta que la carne esté cocida."
+    },
+    {
+        "name": "Tomates rellenos de arroz",
+        "ingredients": [
+            "Tomates",
+            "Arroz",
+            "Cebolla",
+            "Ajo",
+            "Perejil"
+        ],
+        "instructions": "Precaliente el horno a 180°C. Corte la parte superior de los tomates y vacíe el interior. Cocine el arroz según las instrucciones del paquete. En una sartén, saltee la cebolla y el ajo picados hasta que estén tiernos. Agregue el arroz cocido y el perejil picado. Rellene los tomates con esta mezcla. Coloque los tomates rellenos en una fuente para horno. Hornee durante 25-30 minutos o hasta que los tomates estén tiernos."
+    },
+    {
+        "name": "Bruschetta Caprese",
+        "ingredients": [
+            "Pan ciabatta",
+            "Tomates",
+            "Mozzarella",
+            "Albahaca",
+            "Aceite de oliva"
+        ],
+        "instructions": "Corte el pan ciabatta en rodajas y tueste ligeramente. Coloque rodajas de tomate y mozzarella sobre el pan tostado. Rocíe con aceite de oliva y agregue albahaca picada. Sirva de inmediato."
+    },
+    {
+        "name": "Sopa de tomates asados",
+        "ingredients": [
+            "Tomates",
+            "Ajo",
+            "Cebolla",
+            "Caldo de verduras",
+            "Tomillo"
+        ],
+        "instructions": "Precalienta el horno a 200°C. Corta los tomates por la mitad y colócalos en una bandeja para hornear. Agrega el ajo y la cebolla picados. Rocía con aceite de oliva y espolvorea con tomillo. Asa en el horno durante 30-40 minutos. Transfiere los tomates asados a una cacerola con el caldo de verduras. Hierve a fuego lento durante 10 minutos. Usa una licuadora de mano para reducir a puré. Sazona al gusto."
+    },
+    {
+        "name": "Ensalada de pasta con tomates secos",
+        "ingredients": [
+            "Pasta",
+            "Tomates secos",
+            "Espinacas",
+            "Queso feta",
+            "Albahaca"
+        ],
+        "instructions": "Cuece la pasta según las instrucciones del paquete. Mientras tanto, pica los tomates secos, las espinacas y la albahaca. Mezcla la pasta cocida con los tomates secos, las espinacas y la albahaca. Agrega el queso feta desmenuzado y sazona al gusto. Sirve frío."
+    },
+    {
+        "name": "Tian de verduras",
+        "ingredients": [
+            "Tomates",
+            "Calabacín",
+            "Berenjena",
+            "Cebolla",
+            "Tomillo"
+        ],
+        "instructions": "Precalienta el horno a 180°C. Corta todas las verduras en rodajas finas. Coloca las rodajas en capas en un plato para gratinar, alternando entre las diferentes verduras. Espolvorea con tomillo fresco. Rocía con aceite de oliva. Hornea durante 40-50 minutos o hasta que las verduras estén tiernas y doradas."
+    },
+    {
+        "name": "Ensalada de cuscús con tomates",
+        "ingredients": [
+            "Cuscús",
+            "Tomates",
+            "Pepino",
+            "Menta",
+            "Perejil"
+        ],
+        "instructions": "Prepara el cuscús según las instrucciones del paquete. Deja enfriar. Corta los tomates y el pepino en cubos. Pica la menta y el perejil. Mezcla todos los ingredientes en un tazón. Sazona con sal, pimienta, jugo de limón y aceite de oliva. Sirve frío."
+    },
+    {
+        "name": "Bruschetta de aguacate y tomate",
+        "ingredients": [
+            "Pan de campo",
+            "Tomates",
+            "Aguacate",
+            "Ajo",
+            "Cilantro"
+        ],
+        "instructions": "Corta el pan de campo en rodajas y tuesta ligeramente. Frota las rebanadas con ajo para darles sabor. Coloca las rebanadas de tomate y aguacate en el pan tostado. Espolvorea con cilantro picado. Sirve inmediatamente."
+    },
+    {
+        "name": "Salsa marinara",
+        "ingredients": [
+            "Tomates",
+            "Ajo",
+            "Cebolla",
+            "Albahaca",
+            "Orégano"
+        ],
+        "instructions": "En una cacerola, saltea la cebolla y el ajo en aceite de oliva hasta que estén tiernos. Agrega los tomates triturados y cocina a fuego lento durante 20-30 minutos. Agrega la albahaca y el orégano picados. Sazona al gusto. Usa esta salsa en pastas, pizzas u otros platos."
+    },
+    {
+        "name": "Patatas fritas",
+        "ingredients": [
+            "Patatas",
+            "Aceite vegetal",
+            "Sal"
+        ],
+        "instructions": "Pela las patatas y córtalas en bastones. Calienta el aceite vegetal en una freidora o una sartén grande a fuego medio-alto. Fríe los bastones de patata hasta que estén dorados y crujientes. Escúrrelos sobre papel absorbente y sazona con sal."
+    },
+    {
+        "name": "Gratinado de patatas",
+        "ingredients": [
+            "Patatas",
+            "Crema",
+            "Leche",
+            "Ajo",
+            "Queso rallado"
+        ],
+        "instructions": "Precalienta el horno a 180°C. Pela y corta las patatas en rodajas finas. En una cacerola, calienta la crema, la leche y el ajo picado hasta que la mezcla esté caliente. Coloca las rodajas de patata en un plato para hornear. Vierte la mezcla de crema sobre las patatas. Espolvorea con queso rallado. Hornea durante 45-60 minutos o hasta que la parte superior esté dorada y las patatas estén tiernas."
+    },
+    {
+        "name": "Puré de patatas",
+        "ingredients": [
+            "Patatas",
+            "Mantequilla",
+            "Leche",
+            "Sal",
+            "Pimienta"
+        ],
+        "instructions": "Pela y corta las patatas en trozos. Cocínalas en agua hirviendo con sal hasta que estén tiernas. Escúrrelas y aplástalas con un tenedor o con un pasapurés. Agrega la mantequilla y la leche caliente en pequeñas cantidades hasta obtener la consistencia deseada. Sazona con sal y pimienta."
+    },
+    {
+        "name": "Tortilla española",
+        "ingredients": [
+            "Patatas",
+            "Huevos",
+            "Cebolla",
+            "Aceite de oliva",
+            "Sal"
+        ],
+        "instructions": "Pela y corta las patatas en rodajas finas. Calienta aceite de oliva en una sartén a fuego medio. Agrega las patatas y la cebolla picada. Cocina hasta que las patatas estén tiernas. Bate los huevos en un tazón y viértelos sobre las patatas. Sazona con sal. Cocina hasta que los huevos estén cuajados y el fondo esté dorado. Voltea la tortilla y cocina por el otro lado hasta que esté dorada."
+    },
+    {
+        "name": "Sopa de patatas",
+        "ingredients": [
+            "Patatas",
+            "Caldo de verduras",
+            "Cebolla",
+            "Ajo",
+            "Crema"
+        ],
+        "instructions": "Pela y corta las patatas en cubos. Calienta aceite de oliva en una cacerola a fuego medio. Agrega la cebolla picada y el ajo picado. Cocina hasta que estén tiernos. Agrega los cubos de patata y el caldo de verduras. Hierve, luego reduce el fuego y cocina a fuego lento hasta que las patatas estén tiernas. Usa una licuadora de mano para reducir a puré. Agrega la crema y sazona con sal y pimienta."
+    },
+    {
+        "name": "Patatas al horno",
+        "ingredients": [
+            "Patatas",
+            "Mantequilla",
+            "Crema",
+            "Queso rallado",
+            "Tocino"
+        ],
+        "instructions": "Precalienta el horno a 200°C. Lava las patatas y pínchalas con un tenedor. Hornea durante 45-60 minutos o hasta que estén tiernas. Haz un corte en la parte superior y presiona los lados para abrirlas. Rellénalas con mantequilla, crema, queso rallado y tocino cocido."
+    },
+    {
+        "name": "Croquetas de patata",
+        "ingredients": [
+            "Patatas",
+            "Huevos",
+            "Pan rallado",
+            "Perejil",
+            "Sal"
+        ],
+        "instructions": "Pela y corta las patatas en dados. Cuécelas en agua hirviendo con sal hasta que estén tiernas. Escúrrelas y aplástalas con un tenedor. Añade los huevos batidos, el perejil picado y la sal. Forma croquetas con la mezcla y rebózalas en pan rallado. Fríelas en aceite caliente hasta que estén doradas y crujientes."
+    },
+    {
+        "name": "Patatas salteadas con ajo",
+        "ingredients": [
+            "Patatas",
+            "Ajo",
+            "Perejil",
+            "Aceite de oliva",
+            "Sal"
+        ],
+        "instructions": "Pela y corta las patatas en dados. Calienta aceite de oliva en una sartén a fuego medio. Agrega los dados de patata y fríelos hasta que estén dorados y crujientes. Añade el ajo picado y el perejil. Sazona con sal y saltea durante unos minutos más."
+    },
+    {
+        "name": "Patatas rellenas de queso",
+        "ingredients": [
+            "Patatas",
+            "Queso fresco",
+            "Cebollino",
+            "Tocino",
+            "Crema"
+        ],
+        "instructions": "Precalienta el horno a 200°C. Lava las patatas y pínchalas con un tenedor. Hornea durante 45-60 minutos o hasta que estén tiernas. Haz un corte en la parte superior y presiona los lados para abrirlas. Mezcla el queso fresco, el cebollino picado, el tocino cocido y la crema. Rellena las patatas con esta mezcla."
+    },
+    {
+        "name": "Pastel de carne y patata",
+        "ingredients": [
+            "Patatas",
+            "Carne picada",
+            "Cebolla",
+            "Ajo",
+            "Queso rallado"
+        ],
+        "instructions": "Precalienta el horno a 180°C. Pela y corta las patatas en trozos. Cuécelas en agua hirviendo con sal hasta que estén tiernas. Escúrrelas y aplástalas con un tenedor. En una sartén, saltea la cebolla picada y el ajo picado. Agrega la carne picada y cocina hasta que esté dorada. Coloca la carne en un plato apto para horno. Cubre con puré de patata y espolvorea con queso rallado. Hornea durante 25-30 minutos o hasta que esté dorado en la superficie."
+    },
+    {
+        "name": "Sopa de patata y puerro",
+        "ingredients": [
+            "Patatas",
+            "Puerros",
+            "Caldo de verduras",
+            "Crema",
+            "Perejil"
+        ],
+        "instructions": "Pela y corta las patatas en dados. Limpia y corta los puerros en rodajas. Calienta aceite de oliva en una cacerola a fuego medio. Agrega los puerros y cocina hasta que estén tiernos. Añade los dados de patata y el caldo de verduras. Hierve y luego reduce el fuego y cocina a fuego lento hasta que las patatas estén tiernas. Usa una batidora de mano para hacer puré. Agrega la crema y sazona con sal y pimienta. Decora con perejil picado antes de servir."
+    },
+    {
+        "name": "Rösti suizo",
+        "ingredients": [
+            "Patatas",
+            "Cebolla",
+            "Mantequilla",
+            "Sal",
+            "Pimienta"
+        ],
+        "instructions": "Ralla las patatas y la cebolla. Exprime para quitar el exceso de humedad. Calienta mantequilla en una sartén a fuego medio. Agrega la mezcla de patatas y cebolla en la sartén. Extiende uniformemente y presiona con una espátula. Cocina hasta que el fondo esté dorado y crujiente. Voltea y cocina por el otro lado hasta que esté dorado y crujiente. Sazona con sal y pimienta antes de servir."
+    },
+    {
+        "name": "Patatas a la provenzal",
+        "ingredients": [
+            "Patatas",
+            "Tomates",
+            "Cebolla",
+            "Ajo",
+            "Hierbas de Provenza"
+        ],
+        "instructions": "Pela y corta las patatas en dados. Calienta aceite de oliva en una sartén a fuego medio. Agrega los dados de patata y cocina hasta que estén dorados y crujientes. Añade los tomates cortados en dados, la cebolla picada y el ajo picado. Espolvorea con hierbas de Provenza. Cocina hasta que las verduras estén tiernas. Sirve caliente."
+    },
+    {
+        "name": "Patatas a la sueca",
+        "ingredients": [
+            "Patatas",
+            "Mantequilla",
+            "Caldo de pollo",
+            "Ajo",
+            "Tomillo"
+        ],
+        "instructions": "Precalienta el horno a 200°C. Pela las patatas pero no las cortes completamente. Colócalas en una tabla de cortar y córtalas en rodajas finas, asegurándote de no cortar completamente en la base. Derrite la mantequilla en una cacerola a fuego medio. Agrega el ajo picado y el tomillo. Coloca las patatas en una fuente para horno. Vierte la mezcla de mantequilla sobre las patatas y el caldo de pollo en la fuente. Hornea durante 45-60 minutos o hasta que las patatas estén doradas y tiernas."
+    },
+    {
+        "name": "Gratinado de patatas y salmón",
+        "ingredients": [
+            "Patatas",
+            "Salmón",
+            "Crema",
+            "Leche",
+            "Queso rallado"
+        ],
+        "instructions": "Precalienta el horno a 180°C. Pela y corta las patatas en rodajas finas. Cocina el salmón al horno o al vapor hasta que esté cocido. Coloca una capa de patatas en una fuente para horno. Agrega una capa de salmón desmenuzado. Repite las capas hasta que se agoten los ingredientes. En una cacerola, calienta la crema y la leche. Vierte la mezcla sobre las patatas y el salmón. Espolvorea con queso rallado. Hornea durante 45-60 minutos o hasta que la superficie esté dorada y las patatas estén tiernas."
+    },
+    {
+        "name": "Patatas rellenas de queso",
+        "ingredients": [
+            "Patatas",
+            "Queso cheddar",
+            "Tocino",
+            "Crema",
+            "Ciboulette"
+        ],
+        "instructions": "Precalienta el horno a 200°C. Lava las patatas y pínchalas con un tenedor. Hornea durante 45-60 minutos o hasta que estén tiernas. Haz un corte en la parte superior y presiona los lados para abrirlas. Mezcla el queso cheddar rallado, el tocino cocido, la crema y la ciboulette picada. Rellena las patatas con esta mezcla."
+    },
+    {
+        "name": "Patatas con hierbas",
+        "ingredients": [
+            "Patatas",
+            "Mantequilla",
+            "Ajo",
+            "Perejil",
+            "Tomillo"
+        ],
+        "instructions": "Pela y corta las patatas en dados. Calienta mantequilla en una sartén a fuego medio. Agrega los dados de patata y cocina hasta que estén dorados y crujientes. Añade el ajo picado, el perejil picado y el tomillo. Sazona con sal y pimienta. Saltea hasta que las hierbas estén fragantes."
+    },
+    {
+        "name": "Pasta con mantequilla",
+        "ingredients": [
+            "Pasta",
+            "Mantequilla",
+            "Sal"
+        ],
+        "instructions": "Cocinar la pasta según las instrucciones del paquete. Escurrir y mezclar con mantequilla. Sazonar con sal al gusto."
+    },
+    {
+        "name": "Tortilla de verduras",
+        "ingredients": [
+            "Huevos",
+            "Verduras de elección (tomates, pimientos, cebollas, champiñones, espinacas)",
+            "Sal",
+            "Pimienta",
+            "Aceite"
+        ],
+        "instructions": "Batir los huevos en un tazón. Agregar las verduras cortadas en cubitos. Sazonar con sal y pimienta. Calentar aceite en una sartén y verter la mezcla. Cocinar hasta que la tortilla esté cuajada."
+    },
+    {
+        "name": "Sándwich de queso a la parrilla",
+        "ingredients": [
+            "Pan",
+            "Queso",
+            "Mantequilla"
+        ],
+        "instructions": "Untar mantequilla en un lado del pan. Colocar el queso entre las dos rebanadas de pan (con el lado untado hacia afuera). Asar en una sartén hasta que el queso se derrita y el pan esté dorado."
+    },
+    {
+        "name": "Ensalada César",
+        "ingredients": [
+            "Lechuga",
+            "Pollo cocido",
+            "Crutones",
+            "Parmesano",
+            "Salsa César"
+        ],
+        "instructions": "Cortar la lechuga y el pollo en trozos. Agregar los crutones y el parmesano. Sazonar con salsa César y mezclar."
+    },
+    {
+        "name": "Patatas asadas",
+        "ingredients": [
+            "Patatas",
+            "Aceite de oliva",
+            "Sal",
+            "Pimienta",
+            "Hierbas provenzales"
+        ],
+        "instructions": "Cortar las patatas en gajos. Mezclar con aceite de oliva, sal, pimienta y hierbas provenzales. Extender en una bandeja para hornear y asar en el horno hasta que estén doradas."
+    },
+    {
+        "name": "Arroz con verduras",
+        "ingredients": [
+            "Arroz",
+            "Verduras de elección (pimientos, zanahorias, guisantes)",
+            "Aceite",
+            "Sal",
+            "Pimienta"
+        ],
+        "instructions": "Cocinar el arroz según las instrucciones del paquete. Mientras tanto, saltear las verduras en aceite hasta que estén tiernas. Mezclar las verduras con el arroz cocido. Sazonar con sal y pimienta."
+    },
+    {
+        "name": "Pizza casera",
+        "ingredients": [
+            "Masa de pizza lista para usar",
+            "Salsa de tomate",
+            "Queso",
+            "Ingredientes adicionales al gusto (jamón, champiñones, pimientos, aceitunas)"
+        ],
+        "instructions": "Extender la masa de pizza en una bandeja para hornear. Cubrir con salsa de tomate, añadir queso y los ingredientes adicionales de tu elección. Hornear según las instrucciones de la masa."
+    },
+    {
+        "name": "Sopa de verduras",
+        "ingredients": [
+            "Verduras de elección (zanahorias, patatas, puerros, apio)",
+            "Caldo de verduras",
+            "Sal",
+            "Pimienta",
+            "Hierbas frescas (perejil, tomillo)"
+        ],
+        "instructions": "Cortar las verduras en trozos. Cocinar en caldo de verduras hasta que estén tiernas. Sazonar con sal, pimienta y hierbas frescas."
+    },
+    {
+        "name": "Pollo asado",
+        "ingredients": [
+            "Pollo entero",
+            "Sal",
+            "Pimienta",
+            "Aceite de oliva",
+            "Hierbas provenzales"
+        ],
+        "instructions": "Precalentar el horno. Sazonar el pollo con sal, pimienta y hierbas provenzales. Untar con aceite de oliva. Asar en el horno hasta que esté dorado y bien cocido."
+    },
+    {
+        "name": "Tacos",
+        "ingredients": [
+            "Tortillas",
+            "Carne molida",
+            "Frijoles enlatados",
+            "Queso rallado",
+            "Lechuga",
+            "Tomates",
+            "Salsa salsa"
+        ],
+        "instructions": "Cocinar la carne molida en una sartén. Calentar las tortillas. Rellenar cada tortilla con carne, frijoles, queso, lechuga, tomates y salsa salsa."
+    }
+]
+}

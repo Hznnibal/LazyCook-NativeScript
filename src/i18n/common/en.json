@@ -1,0 +1,11 @@
+{
+  "selectIngredients": "Select Your Ingredients",
+  "availableRecipes": "Available Recipes",
+  "noRecipesFound": "Select all required ingredients for a recipe to see it here",
+  "ingredients": "Ingredients",
+  "instructions": "Instructions",
+  "prepTime": "Preparation Time",
+  "cookTime": "Cooking Time",
+  "servings": "Servings",
+  "searchRecipes": "Search recipes..."
+}

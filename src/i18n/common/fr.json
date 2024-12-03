@@ -1,0 +1,11 @@
+{
+  "selectIngredients": "Sélectionnez vos ingrédients",
+  "availableRecipes": "Recettes disponibles",
+  "noRecipesFound": "Sélectionnez tous les ingrédients requis pour voir une recette ici",
+  "ingredients": "Ingrédients",
+  "instructions": "Instructions",
+  "prepTime": "Temps de préparation",
+  "cookTime": "Temps de cuisson",
+  "servings": "Portions",
+  "searchRecipes": "Rechercher des recettes..."
+}
